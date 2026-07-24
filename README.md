@@ -1,6 +1,6 @@
 ## Yo! I'm Yajnesh Skandhan ✌️
 
-19-year-old developer and electronics enthusiast, passionate about the space where 
+16-year-old developer and electronics enthusiast, passionate about the space where 
 software meets hardware.
 
 - 🔭 Currently building projects that mix real logic/math with clean code — simulations, 
