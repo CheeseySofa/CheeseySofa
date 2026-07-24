@@ -1,18 +1,14 @@
-## Yo! I'm Yajnesh Skandhan ✌️
+## Hey, I'm Yajnesh Skandhan ✌️
 
-16-year-old developer and electronics enthusiast, passionate about the space where 
-software meets hardware.
+16-year-old developer with a deep passion for coding and electronics — started tinkering 
+with microcontrollers at age 12, and built several small games by 13-14. That early curiosity 
+for figuring out how things work has stuck with me ever since.
 
-- 🔭 Currently building projects that mix real logic/math with clean code — simulations, 
-  probability-driven systems, adaptive algorithms
 - 💻 Languages: Python, C#
-- 🔌 Hardware: ESP32 microcontrollers — been tinkering since age 12
-- 🎮 Built several small games between ages 13-14, early proof that I loved making things 
-  work, not just using them
-- 🏆 Multiple science award wins in school for original projects
-- 🥁 Drummer/percussionist
-- 🏋️ Gym enthusiast
-- ⚛️ Physics nerd — I like knowing *why*, not just *how*
+- 🔌 Hardware: ESP32 microcontrollers
+- 🏆 Multiple science award wins in school
+- 🎯 Into projects that require actual logic and thinking — simulations, probability, and 
+  anything sharper than a tutorial walkthrough
 
-Always looking to build things that require actual thinking, not just blindly follwing
-someone else's tutorial. ( Human Generated btw )
+Outside of code: 🥁 drummer/percussionist · 🏋️ gym regular · ⚛️ physics nerd — I like knowing 
+*why* things work, not just building them.
