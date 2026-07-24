@@ -1,4 +1,4 @@
-## Hey, I'm Yajnesh Skandhan ✌️
+## Yo! I'm Yajnesh Skandhan ✌️
 
 19-year-old developer and electronics enthusiast, passionate about the space where 
 software meets hardware.
