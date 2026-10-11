@@ -12,3 +12,4 @@ for figuring out how things work has stuck with me ever since.
 
 Outside of code: 🥁 drummer/percussionist · 🏋️ gym regular · ⚛️ physics nerd — I like knowing 
 *why* things work, not just building them.
+**<img width="291" height="209" alt="image" src="https://github.com/user-attachments/assets/a187b0b4-f4ea-4df5-b393-cf3f650c4166" />
