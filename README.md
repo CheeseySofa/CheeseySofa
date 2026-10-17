@@ -4,6 +4,7 @@
 with microcontrollers at age 12, and built several small games by 13-14. That early curiosity 
 for figuring out how things work has stuck with me ever since.
 I love the Yakuza / Like A Dragon series too!
+I adore the character of Ichiban Kasuga, he has shaped my life tremondously!
 
 - 💻 Languages: Python, C#
 - 🔌 Hardware: ESP32 microcontrollers
